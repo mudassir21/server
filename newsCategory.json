@@ -1,9 +1,0 @@
-[
-	{"key": "a", "title": "Bangladesh", "image": "require('./img/bangladesh.jpg')"},
-	{"key": "b", "title": "Sports", "image": "require('./img/sports.jpg')"},
-	{"key": "c", "title": "Politics", "image": "require('./img/politics.jpg')"},
-	{"key": "d", "title": "Entertainment", "image": "require('./img/entertainment.png')"},
-	{"key": "e", "title": "Economics", "image": "require('./img/economics.jpg')"},
-	{"key": "f", "title": "Technology", "image": "require('./img/technology.jpg')"},
-	{"key": "g", "title": "Others", "image": "require('./img/m.jpg')"},
-]
