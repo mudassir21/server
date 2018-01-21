@@ -1,5 +1,5 @@
 {"Cat": [
-	{"key": "a",
+	{"key": "0",
 	 "title": "Bangladesh",
 	 "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/bangladesh.jpg",
 	 "news": [
@@ -15,7 +15,7 @@
 	  {"key": "b", "title": "DITF 2018", "details": "rgybfdf enfijn efnhiueh fhiuerhngf reuigfr rhgiuhs huiwghf 3ejfow fnhbviuo rgybfdf ehf euhfiue eshfu9he eh9f9uhe ehgf9gy gefgey8 egf8 9ewgf89e 9ewghf8g 9ewhfd8i fhgiuh hguhsi ruhgiuherih shif"}
          ]
 	},
-	{"key": "b",
+	{"key": "1",
 	 "title": "Sports",
 	 "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/sports.jpg",
 	 "news": [
@@ -31,11 +31,11 @@
 	  {"key": "b", "title": "DITF 2018", "details": "rgybfdf enfijn efnhiueh fhiuerhngf reuigfr rhgiuhs huiwghf 3ejfow fnhbviuo rgybfdf ehf euhfiue eshfu9he eh9f9uhe ehgf9gy gefgey8 egf8 9ewgf89e 9ewghf8g 9ewhfd8i fhgiuh hguhsi ruhgiuherih shif"}
 	 ]
 	},
-	{"key": "c", "title": "Politics", "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/politics.jpg"},
-	{"key": "d", "title": "Entertainment", "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/entertainment.png"},
-	{"key": "e", "title": "Economics", "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/economics.jpg"},
-	{"key": "f", "title": "Technology", "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/technology.jpg"},
-	{"key": "g", "title": "Others", "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/m.jpg"}
+	{"key": "2", "title": "Politics", "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/politics.jpg"},
+	{"key": "3", "title": "Entertainment", "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/entertainment.png"},
+	{"key": "4", "title": "Economics", "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/economics.jpg"},
+	{"key": "5", "title": "Technology", "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/technology.jpg"},
+	{"key": "6", "title": "Others", "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/m.jpg"}
 ],
 "BangladeshNews": [
 	{"key": "a", "title": "ICC T20", "details": "rgybfdf ehf euhfiue eshfu9he eh9f9uhe ehgf9gy rgybfdf enfijn efnhiueh fhiuerhngf reuigfr rhgiuhs huiwghf 3ejfow fnhbviuo rgybfdf ehf euhfiue eshfu9he eh9 gefgey8 egf8 9ewgf89e 9ewghf8g 9ewhfd8i 9ewhdf8 hwed7uhyeu ewhdfyuh"},
