@@ -37,11 +37,11 @@
 		 "title": "Main",
 		 "items": [
       {"key": "0",
-       "title": "Bangladesh",
+       "title": "Bangla",
        "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/bangladesh.jpg"
       },
       {"key": "1",
-       "title": "Sports",
+       "title": "Salad",
        "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/sports.jpg"
       },
       {"key": "2",
