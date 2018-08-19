@@ -51,18 +51,6 @@
       {"key": "3",
        "title": "Entertainment",
        "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/entertainment.png"
-      },
-      {"key": "4",
-       "title": "Economics",
-       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/economics.jpg"
-      },
-      {"key":
-       "5", "title": "Technology",
-       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/technology.jpg"
-      },
-      {"key": "6",
-       "title": "Others",
-       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/m.jpg"
       }
      ]
     },
