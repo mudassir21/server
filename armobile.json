@@ -5,31 +5,45 @@
 		 "items": [
       {"key": "0",
        "title": "Bangladesh",
-       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/bangladesh.jpg"
+       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/bangladesh.jpg",
+       "obj": "https://raw.githubusercontent.com/mudassir21/server/master/obj/Hamburger.obj",
+       "tx": "https://raw.githubusercontent.com/mudassir21/server/master/obj/Hamburger.png"
       },
       {"key": "1",
        "title": "Sports",
-       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/sports.jpg"
+       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/sports.jpg",
+       "obj": "https://raw.githubusercontent.com/mudassir21/server/master/obj/mesh.obj",
+       "tx": "https://raw.githubusercontent.com/mudassir21/server/master/obj/mesh.jpeg"
       },
       {"key": "2",
        "title": "Politics",
-       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/politics.jpg"
+       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/politics.jpg",
+       "obj": "https://raw.githubusercontent.com/mudassir21/server/master/obj/Hamburger.obj",
+       "tx": "https://raw.githubusercontent.com/mudassir21/server/master/obj/Hamburger.png"
       },
       {"key": "3",
        "title": "Entertainment",
-       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/entertainment.png"
+       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/entertainment.png",
+       "obj": "https://raw.githubusercontent.com/mudassir21/server/master/obj/mesh.obj",
+       "tx": "https://raw.githubusercontent.com/mudassir21/server/master/obj/mesh.jpeg"
       },
       {"key": "4",
        "title": "Economics",
-       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/economics.jpg"
+       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/economics.jpg",
+       "obj": "https://raw.githubusercontent.com/mudassir21/server/master/obj/Hamburger.obj",
+       "tx": "https://raw.githubusercontent.com/mudassir21/server/master/obj/Hamburger.png"
       },
       {"key":
        "5", "title": "Technology",
-       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/technology.jpg"
+       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/technology.jpg",
+       "obj": "https://raw.githubusercontent.com/mudassir21/server/master/obj/mesh.obj",
+       "tx": "https://raw.githubusercontent.com/mudassir21/server/master/obj/mesh.jpeg"
       },
       {"key": "6",
        "title": "Others",
-       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/m.jpg"
+       "image": "https://raw.githubusercontent.com/mudassir21/server/master/img/m.jpg",
+       "obj": "https://raw.githubusercontent.com/mudassir21/server/master/obj/Hamburger.obj",
+       "tx": "https://raw.githubusercontent.com/mudassir21/server/master/obj/Hamburger.png"
       }
      ]
     },
